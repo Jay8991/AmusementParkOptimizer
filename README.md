@@ -1,5 +1,4 @@
-# READ ME
-Amusement Park Optimizer Android App
+# Amusement Park Optimizer Android App
 The Amusement Park Optimizer project will eventually help people to plan their visit to
 the amusement park very efficiently and effectively. This app will allow users to manage their
 day by choosing the rides they want to take and the app will automatically generate the rides
